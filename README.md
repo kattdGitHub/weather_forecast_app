@@ -22,11 +22,11 @@ A Flutter application that provides weather forecasts for a specified location. 
 
 - Flutter SDK: [Install Flutter](https://docs.flutter.dev/get-started/install)
 - Flutter (Channel stable, 3.16.0, on Ubuntu 22.04.4 LTS 6.5.0-35-generic, locale en_IN)
-- OpenWeatherMap API Key: [Get an API Key](https://home.openweathermap.org/users/sign_up)
 
 ### Installation
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/weather_forecast_app.git
+   git clone https://github.com/kattdGitHub/weather_forecast_app
    cd weather_forecast_app
+   flutter run
